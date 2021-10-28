@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3_4</string>
+    <string name="title_activity_activity2">Activity2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="to_the_second">to the second</string>
+</resources>
